@@ -1,0 +1,6 @@
+Unit 01 Instructions
+
+The goal is to make the red cube move (in any direction). 
+
+No new objects or scripts need to be created, but you might need to add something to an object in the scene. 
+You will also need to make some changes to the Script Graph (but don't need to add any nodes).

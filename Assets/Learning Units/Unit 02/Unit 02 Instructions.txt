@@ -1,0 +1,8 @@
+Unit 02 Instructions
+
+The goal of this unit is to create a Script Graph from scratch that will send a Debug message when the red cube enters the trigger zone.
+
+You will need to create a Script Graph and add some Components to objects in your Scene.  
+
+HINT: The Debug message node is called "Debug Log"
+HINT: The Red Cube is missing something essential for triggers from a previous week's lesson, but what?

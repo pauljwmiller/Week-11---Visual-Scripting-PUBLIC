@@ -1,0 +1,8 @@
+Unit 04 Instructions
+
+The goal of this unit is to have the doors open when the cube enters the trigger, AND have them close when the cube exits.
+
+You will need to modify your working Script Graphs from Units 02 and 03, adding logic to make it work in reverse. Feel free to 
+use the SampleScene as a reference, but note that this Scene (and its Script Graphs) function a little differently, so 
+you can't copy the SampleScene verbatim. The best solution will continue to use the two Script Graphs (one for triggering, one 
+for moving) and the LERP method.

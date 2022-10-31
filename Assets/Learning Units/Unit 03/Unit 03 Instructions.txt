@@ -1,0 +1,11 @@
+Unit 03 Instructions
+
+The goal of this unit is to have the doors open when the cube enters the trigger.
+
+Your trigger script from the previous unit will need to be added to this scene, and will need an additional part. Instead 
+of the Debug message, it now needs to set a Scene variable using the "Set Variable" node (make sure you select "Scene" variables
+from the dropdown). 
+
+Most of your work in this unit will be fixing the MoveAndThenStop Script Graph. It has been laid out in logical order, 
+and you just need to wire it up. 
+

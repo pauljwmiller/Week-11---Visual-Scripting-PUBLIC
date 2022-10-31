@@ -1,0 +1,6 @@
+Unit 05 Instructions
+
+You now have a number of working Script Graphs. From memory, reconstruct the Scene and make it work using your existing Script Graphs.
+
+(Yes, you could cheat and copy the scene from Unit 04, but we're at the point in the semester where you
+need to start transitioning to your own intrinsic motivation to learn Unity)
