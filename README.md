@@ -11,6 +11,16 @@ https://docs.unity3d.com/Packages/com.unity.visualscripting@1.7/manual/index.htm
 
 Visual Scripting
 
+## I'm Getting off the Bus!
+
+As was an option the last two weeks, students who have had their fill of Unity can do some research and writing this week instead of the coding below. 
+
+Apply "affect theory," as described in Anable. Think about twee feels, vibes, and cathexis in one of the games we played this term. Or go to Anna Antropy's main game page at itch.io and play one of her more playful, dirty games and report on your queerer gaming experiences.
+
+## I'm Staying on the Bus!
+
+Proceed as per usual below...
+
 ## Level
 
 The Learning Units each have a set of instructions. In most you are both fixing the Scene as well as one or two Script Graphs. 
