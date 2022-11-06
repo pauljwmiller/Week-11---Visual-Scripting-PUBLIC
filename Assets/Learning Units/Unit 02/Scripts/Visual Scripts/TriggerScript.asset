@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95e66c6366d904e98bc83428217d4fd7, type: 3}
+  m_Name: TriggerScript
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[{"key":null,"label":null,"summary":null,"hideLabel":false},{"key":null,"label":null,"summary":null,"hideLabel":false}],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":"TriggerScript","summary":null,"pan":{"x":-5.0,"y":34.0},"zoom":1.0,"elements":[{"coroutine":false,"defaultValues":{"target":null},"position":{"x":-252.0,"y":-65.0},"guid":"b8c41ad6-a825-417c-ad10-a260c73dd647","$version":"A","$type":"Unity.VisualScripting.OnTriggerEnter","$id":"11"},{"chainable":false,"member":{"name":"Log","parameterTypes":["System.Object"],"targetType":"UnityEngine.Debug","targetTypeName":"UnityEngine.Debug","$version":"A"},"defaultValues":{},"position":{"x":41.0,"y":-24.0},"guid":"c5b27694-6895-43b8-a05c-a152b67cd059","$version":"A","$type":"Unity.VisualScripting.InvokeMember","$id":"13"},{"type":"System.String","value":{"$content":"Debug
+      activated","$type":"System.String"},"defaultValues":{},"position":{"x":-240.0,"y":73.0},"guid":"98d334af-ebc2-4ce7-8f30-ac8507dff0fa","$version":"A","$type":"Unity.VisualScripting.Literal","$id":"16"},{"sourceUnit":{"$ref":"11"},"sourceKey":"trigger","destinationUnit":{"$ref":"13"},"destinationKey":"enter","guid":"86fb28e9-f0a9-47a1-ad3f-abe7213a36f8","$type":"Unity.VisualScripting.ControlConnection"},{"sourceUnit":{"$ref":"16"},"sourceKey":"output","destinationUnit":{"$ref":"13"},"destinationKey":"%message","guid":"afc326a9-7ed4-46ae-a968-de5b0389bff4","$type":"Unity.VisualScripting.ValueConnection"}],"$version":"A"}}'
+    _objectReferences: []
